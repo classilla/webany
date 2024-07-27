@@ -1,6 +1,6 @@
 # WebAny: Open Source Web-@nywhere Watch Driver
 
-[Another Old VCR Stupendous Advance of Science!](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-fragments.html)
+[Another Old VCR Stupendous Advance of Science!](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
 
 Copyright (C)2024 Cameron Kaiser.  
 All rights reserved.  
@@ -22,7 +22,7 @@ for decades, there was no way to use the client to fetch data anymore.
 This project fixes that and runs anywhere its components can be
 (tested on Linux/`ppc64le` and Mac OS X for PowerPC).
 
-[Read more about this watch and how it works.](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-fragments.html)
+[Read more about this watch and how it works.](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
 
 This project contains two distinct pieces:
 
